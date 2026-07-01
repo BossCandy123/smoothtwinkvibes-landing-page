@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "node -e \"const fs=require('fs'); ['index.html','styles.css','script.js','robots.txt','sitemap.xml','vercel.json'].forEach((file)=>{ if(!fs.existsSync(file)) throw new Error('Missing required file: '+file); }); console.log('Static site build validation passed');\""
+    "start": "node -e \"const http=require('http'),fs=require('fs'),path=require('path');const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.svg':'image/svg+xml','.xml':'application/xml; charset=utf-8','.txt':'text/plain; charset=utf-8','.webmanifest':'application/manifest+json; charset=utf-8'};const root=process.cwd();http.createServer((req,res)=>{let urlPath=decodeURIComponent(new URL(req.url,'http://localhost').pathname);let file=path.join(root,urlPath==='/'?'index.html':urlPath);if(!file.startsWith(root)){res.writeHead(403);return res.end('Forbidden')}fs.readFile(file,(err,data)=>{if(err){res.writeHead(404);return res.end('Not found')}res.writeHead(200,{'Content-Type':types[path.extname(file)]||'application/octet-stream'});res.end(data)})}).listen(3000,()=>console.log('Serving static site at http://localhost:3000'))\"",
+    "test": "node --check script.js",
+    "deploy": "npx vercel deploy"
   }
 }
