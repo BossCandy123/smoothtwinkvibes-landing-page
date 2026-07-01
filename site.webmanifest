@@ -1,0 +1,18 @@
+{
+  "name": "SmoothTwinkVibes Official 18+ Follow Page",
+  "short_name": "SmoothTwinkVibes",
+  "description": "Official 18+ SmoothTwinkVibes Stripchat follow page on EclipseStudModeling.com.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07070a",
+  "theme_color": "#07070a",
+  "icons": [
+    {
+      "src": "/og-preview.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
