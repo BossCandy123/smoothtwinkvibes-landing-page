@@ -1,40 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">New Here? Meet SmoothTwinkVibes Live.</title>
-  <desc id="desc">A dark editorial preview image for new adult visitors with a direct follow link message.</desc>
+  <title id="title">SmoothTwinkVibes official 18+ Stripchat follow page</title>
+  <desc id="desc">Dark premium creator landing page preview for the official SmoothTwinkVibes Stripchat follow link.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090b11"/>
-      <stop offset="50%" stop-color="#101626"/>
-      <stop offset="100%" stop-color="#07080d"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07070a"/>
+      <stop offset="0.52" stop-color="#190b18"/>
+      <stop offset="1" stop-color="#07070a"/>
     </linearGradient>
-    <radialGradient id="warm" cx="18%" cy="12%" r="48%">
-      <stop offset="0%" stop-color="#ff6f5d" stop-opacity="0.42"/>
-      <stop offset="100%" stop-color="#ff6f5d" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="cool" cx="78%" cy="22%" r="38%">
-      <stop offset="0%" stop-color="#5c94ff" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#5c94ff" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="36"/>
-    </filter>
+    <linearGradient id="cta" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6f9c"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <rect width="1200" height="630" fill="url(#warm)"/>
-  <rect width="1200" height="630" fill="url(#cool)"/>
-  <g opacity="0.16">
-    <path d="M0 92H1200M0 182H1200M0 272H1200M0 362H1200M0 452H1200M0 542H1200" stroke="#ffffff"/>
-    <path d="M88 0V630M268 0V630M448 0V630M628 0V630M808 0V630M988 0V630M1168 0V630" stroke="#ffffff"/>
-  </g>
-  <ellipse cx="960" cy="480" rx="180" ry="90" fill="#ff6f5d" opacity="0.22" filter="url(#soft)"/>
-  <g fill="#f6f2eb">
-    <text x="92" y="132" font-size="28" font-family="Aptos, Segoe UI, sans-serif" letter-spacing="5.6" text-transform="uppercase">NEW VISITORS WELCOME · 18+ ONLY · DIRECT FOLLOW LINK</text>
-    <text x="92" y="264" font-size="82" font-family="Georgia, Times New Roman, serif" font-weight="700">New Here?</text>
-    <text x="92" y="354" font-size="82" font-family="Georgia, Times New Roman, serif" font-weight="700">Meet SmoothTwinkVibes Live.</text>
-    <text x="92" y="442" font-size="31" font-family="Aptos, Segoe UI, sans-serif" fill="#b5bfcd">A simple first-stop page for adults who want the official Stripchat follow link.</text>
-  </g>
-  <g transform="translate(92 492)">
-    <rect width="404" height="78" rx="39" fill="#ff7a5c"/>
-    <text x="202" y="49" text-anchor="middle" font-size="26" font-weight="700" font-family="Aptos, Segoe UI, sans-serif" fill="#170b08">Open the Direct Follow Link</text>
+  <path d="M0 106H1200M0 212H1200M0 318H1200M0 424H1200M0 530H1200" stroke="#ffffff" stroke-opacity="0.06"/>
+  <path d="M106 0V630M318 0V630M530 0V630M742 0V630M954 0V630" stroke="#ffffff" stroke-opacity="0.045"/>
+  <path d="M0 0H1200V630H0Z" fill="#ff6f9c" opacity="0.08"/>
+  <path d="M830 0H1200V630H690Z" fill="#8ee7ff" opacity="0.06"/>
+  <text x="82" y="110" fill="#f4d6df" font-size="30" font-weight="700" font-family="Space Grotesk, Segoe UI, sans-serif">OFFICIAL SMOOTHTWINKVIBES FOLLOW LINK · 18+ ONLY</text>
+  <text x="82" y="250" fill="#fff7fb" font-size="86" font-family="Georgia, Times New Roman, serif">Late Night Looks Better</text>
+  <text x="82" y="342" fill="#fff7fb" font-size="86" font-family="Georgia, Times New Roman, serif">When You Know</text>
+  <text x="82" y="434" fill="#fff7fb" font-size="86" font-family="Georgia, Times New Roman, serif">Where to Find Me.</text>
+  <text x="82" y="500" fill="#c8b8c1" font-size="31" font-family="Space Grotesk, Segoe UI, sans-serif">Tap through, save the profile, and catch the live vibe on Stripchat.</text>
+  <g transform="translate(82 536)">
+    <rect width="360" height="64" rx="8" fill="url(#cta)"/>
+    <text x="180" y="41" text-anchor="middle" fill="#17070d" font-size="24" font-weight="800" font-family="Space Grotesk, Segoe UI, sans-serif">Follow Me on Stripchat</text>
   </g>
 </svg>

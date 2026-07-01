@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bosscandy123.github.io/smoothtwinkvibes-landing-page/sitemap.xml
+Sitemap: https://eclipsestudmodeling.com/sitemap.xml
