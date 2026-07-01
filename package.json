@@ -1,0 +1,8 @@
+{
+  "name": "smoothtwinkvibes-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"const fs=require('fs'); ['index.html','styles.css','script.js','robots.txt','sitemap.xml','vercel.json'].forEach((file)=>{ if(!fs.existsSync(file)) throw new Error('Missing required file: '+file); }); console.log('Static site build validation passed');\""
+  }
+}
